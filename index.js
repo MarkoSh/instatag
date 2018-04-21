@@ -121,3 +121,5 @@ emitter.on( 'parse_sharedData', ( db, window ) => {
 } );
 
 emitter.emit( 'start' );
+
+// git add index.js && git commit -m "Init" && git push -u origin master
